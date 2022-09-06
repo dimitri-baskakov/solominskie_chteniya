@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X8 -->
+
+<svg
+   xml:space="preserve"
+   width="126"
+   height="212"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 126 212"
+   id="svg1838"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+ <defs
+   id="defs1612">
+  <style
+   type="text/css"
+   id="style1610">
+   <![CDATA[
+    .fil7 {fill:#FEFEFE}
+    .fil5 {fill:#C5C6C6}
+    .fil6 {fill:#898989}
+    .fil3 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil4 {fill:#C5C6C6;fill-rule:nonzero}
+    .fil2 {fill:#898989;fill-rule:nonzero}
+    .fil0 {fill:#2B2A29;fill-rule:nonzero}
+    .fil1 {fill:#C8C4C7;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Слой_x0020_1"
+   transform="translate(-798,-157)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+
+
+  <path
+   class="fil0"
+   d="m 924,362 c 0,4 -3,7 -7,7 H 805 c -4,0 -7,-3 -7,-7 V 164 c 0,-4 3,-7 7,-7 h 112 c 4,0 7,3 7,7 z"
+   id="path1833" />
+  <polygon
+   class="fil3"
+   points="871,353 850,353 850,173 871,173 "
+   id="polygon1835" />
+ </g>
+</svg>
